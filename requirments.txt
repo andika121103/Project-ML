@@ -1,5 +1,10 @@
 streamlit
-scikit-learn
 joblib
+<<<<<<< Updated upstream
 pandas
 numpy
+=======
+scikit-learn
+pandas
+numpy
+>>>>>>> Stashed changes
